@@ -438,6 +438,7 @@ function initScrollSpy() {
     { rootMargin: "-40% 0px -55% 0px" }
   );
 
+   
   sections.forEach(s => observer.observe(s));
 }
 
