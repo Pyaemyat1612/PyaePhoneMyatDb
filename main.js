@@ -31,6 +31,7 @@ const HARD_SKILLS = [
   "Business Development Skills",
   "Sales Management",
   "Performance Marketing Reporting",
+  "Vibe-Coding",
 ];
 
 const SOFT_SKILLS = [
@@ -46,10 +47,16 @@ const SOFT_SKILLS = [
 
 const EXPERIENCE = [
   {
+    role: "Marketing Manager",
+    company: "Flyover Design & Construction Co.,ltd",
+    period: "April 2026 — June 2026",
+    current: true,
+    desc: "Leading brand development, marketing strategies, and digital marketing campaigns to enhance market presence and drive business growth.",
+  },
+  {
     role: "Digital Marketing Specialist",
     company: "Kanaiya Cosmetics",
     period: "Aug 2025 — Dec 2026",
-    current: true,
     desc: "Leading digital marketing initiatives, brand positioning, and performance campaigns for a growing cosmetics brand.",
   },
   {
