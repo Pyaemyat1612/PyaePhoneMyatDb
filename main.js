@@ -115,6 +115,13 @@ const PROJECTS = [
     tags: ["Email Marketing", "Social Media", "Display Ads"],
     img: "https://readdy.ai/api/search-image?query=Festive%20holiday%20marketing%20campaign%20concept%2C%20warm%20golden%20ambient%20lighting%20with%20subtle%20sparkle%20effects%2C%20elegant%20seasonal%20design%20aesthetic%2C%20cozy%20rich%20tones%20of%20amber%20and%20deep%20green%2C%20celebration%20atmosphere%20with%20sophisticated%20modern%20composition%2C%20premium%20gift-giving%20lifestyle%20visual&width=640&height=420&seq=project-holiday-05&orientation=landscape",
   },
+   {
+    title: "Premiun Company Website Creation & Development of Flyover Design & Construction",
+    tag: "Company Website",
+    desc: "Created a Professional and high-performance company website tailored to enevate brand visibility, communicate business values, and provide an engaging digital experience for clients, partners, and stakeholders",
+    tags: ["Vibe-Coding", "Brand Presence", "Web design & Development"],
+    img: "https://readdy.ai/api/search-image?query=Festive%20holiday%20marketing%20campaign%20concept%2C%20warm%20golden%20ambient%20lighting%20with%20subtle%20sparkle%20effects%2C%20elegant%20seasonal%20design%20aesthetic%2C%20cozy%20rich%20tones%20of%20amber%20and%20deep%20green%2C%20celebration%20atmosphere%20with%20sophisticated%20modern%20composition%2C%20premium%20gift-giving%20lifestyle%20visual&width=640&height=420&seq=project-holiday-05&orientation=landscape",
+  },
 ];
 
 const CERTIFICATES = [
@@ -128,19 +135,17 @@ const CERTIFICATES = [
   },
   {
     icon: "ri-medal-line",
-    title: "Diploma in Marketing & Brand Management",
+    title: "Prof.Diploma in Marketing & Brand Management",
     issuer: "Strategy First University",
-    year: "2022",
+    year: "2025",
     desc: "Advanced diploma specializing in brand strategy, consumer behavior, market positioning, and integrated marketing communications.",
-    cid: "SFU-DMB-2022",
   },
   {
     icon: "ri-award-line",
     title: "Diploma in Digital Marketing Strategy & Advertising",
     issuer: "National Management Academy",
-    year: "2021",
+    year: "2024",
     desc: "Intensive digital marketing program covering SEO, SEM, social media advertising, analytics, and data-driven campaign optimization.",
-    cid: "NMA-DDMS-2021",
   },
   {
     icon: "ri-google-line",
@@ -148,7 +153,6 @@ const CERTIFICATES = [
     issuer: "Google Career Certificates",
     year: "2022",
     desc: "Professional certification covering digital marketing fundamentals, e-commerce strategies, and Google's marketing tools ecosystem.",
-    cid: "GOOG-DMEC-2022",
   },
   {
     icon: "ri-meta-line",
@@ -156,7 +160,6 @@ const CERTIFICATES = [
     issuer: "Meta",
     year: "2023",
     desc: "Certification demonstrating proficiency in Meta advertising platforms, campaign optimization, and social media marketing strategies.",
-    cid: "META-CDMA-2023",
   },
   {
     icon: "ri-quill-pen-line",
@@ -164,13 +167,12 @@ const CERTIFICATES = [
     issuer: "HubSpot Academy",
     year: "2022",
     desc: "Certification in content creation, storytelling, content promotion, and measuring content marketing ROI.",
-    cid: "HUB-CMC-2022",
   },
 ];
 
 const EDUCATION = [
   { icon: "ri-building-line", title: "ABE Level 4 in Business Administration",           school: "UK Pathway"                  },
-  { icon: "ri-medal-line",    title: "Diploma in Marketing & Brand Management",          school: "Strategy First University"   },
+  { icon: "ri-medal-line",    title: "Prof.Diploma in Marketing & Brand Management",          school: "Strategy First University"   },
   { icon: "ri-award-line",    title: "Diploma in Digital Marketing Strategy & Advertising", school: "National Management Academy" },
 ];
 
