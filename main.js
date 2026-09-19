@@ -127,11 +127,18 @@ const PROJECTS = [
 const CERTIFICATES = [
   {
     icon: "ri-building-line",
-    title: "ABE Level 4 Diploma in Business Administration",
+    title: "ABE Level 4 Diploma in Business Management",
     issuer: "UK Pathway",
-    year: "2023",
+    year: "2026",
     desc: "Comprehensive business administration qualification covering management principles, marketing, human resources, and operations from a UK-accredited awarding body.",
     cid: "ABE-UKP-2023-L4",
+  },
+   {
+    icon: "ri-medal-line",
+    title: "Prof.Diploma in Digital Business",
+    issuer: "Strategy First University",
+    year: "2026",
+    desc: "Integrated digital solutions focused on building professional online presence, strengthening brand visibility, improving customer engagement, and supporting sustainable business growth.",
   },
   {
     icon: "ri-medal-line",
